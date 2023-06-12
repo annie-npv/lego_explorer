@@ -25,9 +25,6 @@ my_pal <- define_palette(
 )
 ggthemr(my_pal)
 
-# Set working directory
-setwd("/Users/annienguyen/STA404/Final/Final-undergrad")
-
 # Data downloaded from 
 # https://www.kaggle.com/datasets/rtatman/lego-database
 
