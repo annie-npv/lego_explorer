@@ -1,4 +1,4 @@
-#lego_explorer 
+# lego_explorer
 
 Welcome to "Exploring the Legos!"
 Embark on a fascinating journey through the world of LEGO with our interactive app. Discover insights into LEGO themes, colors, parts, and sets released over the years. Whether you're a LEGO enthusiast, a collector, or just curious about the LEGO universe, this app is for you!
@@ -17,6 +17,7 @@ Navigate through different tabs to explore various aspects of LEGO, from themes 
 Use interactive features to select specific themes, colors, parts, or years for detailed analysis.
 Enjoy visualizations that bring the world of LEGO to life, from colorful plots to dynamic circle pack visualizations.
 Whether you're looking to reminisce about your favorite LEGO sets from the past or discover new insights into the LEGO universe, "Exploring the Legos!" is your ultimate companion. Start exploring now and unlock the magic of LEGO!
+
 
 
 
